@@ -42,7 +42,6 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="50">
 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshit21&show_icons=true&locale=en&layout=compact" alt="arshit21" /></p>
 
 ---
 
